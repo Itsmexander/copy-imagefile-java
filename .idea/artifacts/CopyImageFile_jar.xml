@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CopyImageFile:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CopyImageFile_jar</output-path>
+    <root id="archive" name="CopyImageFile.jar">
+      <element id="module-output" name="CopyImageFile" />
+    </root>
+  </artifact>
+</component>

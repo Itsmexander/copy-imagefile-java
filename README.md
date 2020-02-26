@@ -1,3 +1,3 @@
 # copy-imagefile-java
 
-Set resources to resource-root
+Set /resources folder to Resources Root
